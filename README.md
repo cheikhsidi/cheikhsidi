@@ -4,11 +4,12 @@ Hello, I'm **Cheikh**! 👋
 Senior AI/Software Engineer, Building production-grade AI agents, SaaS platforms, and video intelligence systems with Python, 
 
 **Tech Stack**
-FastAPI, LangGraph & Claude APIs.
-AI/Agents: LangChain, LangGraph, OpenAI, Claude, LlamaIndex
-Backend: Python, FastAPI, PostgreSQL, Temporal, Redis
-DevOps: Docker, Railway, Supabase, GitHub Actions
-Frontend: TypeScript, Next.js
+- FastAPI, LangGraph & Claude APIs.
+- AI/Agents: LangChain, LangGraph, OpenAI, Claude, LlamaIndex
+- Backend: Python, FastAPI, PostgreSQL, Temporal, Redis
+- DevOps: Docker, Railway, GitHub Actions
+- Clouds: AWS, GCP. DigitalOcean, Azure
+- Frontend: TypeScript, Next.js
 
 📍 **Orlando, Florida**
 🧠 **What I Do**: Design & deploy multi-agent AI systems (LangGraph, Temporal)
