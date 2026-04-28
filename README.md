@@ -12,6 +12,7 @@ Senior AI/Software Engineer, Building production-grade AI agents, SaaS platforms
 - Frontend: TypeScript, Next.js
 
 📍 **Orlando, Florida**
+
 🧠 **What I Do**: Design & deploy multi-agent AI systems (LangGraph, Temporal)
   - ⚡ Build high-performance B2B SaaS backends (FastAPI + PostgreSQL)
   - 🎥 Video AI processing pipelines
