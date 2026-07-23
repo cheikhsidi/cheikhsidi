@@ -1,24 +1,30 @@
-## Hi there 👋
+# Hi, I’m Cheikh 👋
 
-Hello, I'm **Cheikh**! 👋  
-Senior AI/Software Engineer, Building production-grade AI agents, SaaS platforms, and video intelligence systems with Python, 
+I’m a Senior AI Software Engineer and Solutions Architect focused on turning complex business processes into reliable, production-ready software.
 
-**Tech Stack**
-- FastAPI, LangGraph & Claude APIs.
-- AI/Agents: LangChain, LangGraph, OpenAI, Claude, LlamaIndex
-- Backend: Python, FastAPI, PostgreSQL, Temporal, Redis
-- DevOps: Docker, Railway, GitHub Actions
-- Clouds: AWS, GCP. DigitalOcean, Azure
-- Frontend: TypeScript, Next.js
+My work spans system architecture, backend engineering, workflow orchestration, data integration, and user-facing applications. I’m especially interested in systems that combine structured business rules, enterprise data, and language models—with the controls, observability, and human oversight required for real-world use.
 
-📍 **Orlando, Florida**
+## What I work on
 
-🧠 **What I Do**: Design & deploy multi-agent AI systems (LangGraph, Temporal)
-  - ⚡ Build high-performance B2B SaaS backends (FastAPI + PostgreSQL)
-  - 🎥 Video AI processing pipelines
-  - ⚡ Custom AI Document parsing and generating proposals
-  - 🔐 Multi-tenant architecture, auth (OAuth/OIDC), and enterprise integrations
-🔭 **Working on**: Pioneering AI-driven Clical trial Protocol scoping solutions .   
-💬 **Ask me about**: Designing and engineering scalable solutions across various industries.  
-📫 **Reach me at**: [LinkedIn](https://www.linkedin.com/in/cheikh-sidi-moctar/) or [Email](mailto:csidimed@gmail.com)  
-⚡ **Fun fact**: I'm an avid soccer player.
+* Architecting end-to-end solutions from discovery through production
+* Building reliable agent and workflow orchestration systems
+* Designing scalable APIs, background processing, and data pipelines
+* Integrating enterprise platforms such as Salesforce, Snowflake, NetSuite, and SharePoint
+* Creating document-processing and decision-support applications
+* Establishing testing, observability, security, and deployment practices
+* Translating ambiguous business workflows into maintainable software
+
+## Engineering toolkit
+
+**Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL, Redis
+**Frontend:** TypeScript, React, Next.js
+**Orchestration:** LangGraph, Temporal, background workers
+**Platforms:** AWS, Azure, GCP, Docker, GitHub Actions
+**Applied AI:** OpenAI, Claude, Bedrock, document extraction, retrieval, evaluation
+
+## How I approach engineering
+
+I care about clear architecture, simple interfaces, measurable reliability, and systems that teams can understand and maintain after the first release. I prefer practical solutions over unnecessary complexity and treat AI components as part of a larger software system—not as the entire product.
+
+📍 Orlando, Florida
+🔗 [LinkedIn](https://www.linkedin.com/in/cheikh-sidi-moctar/) · [Email](mailto:cheikh_elmoctar@yahoo.com)
