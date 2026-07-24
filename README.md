@@ -24,7 +24,7 @@ My work spans system architecture, backend engineering, workflow orchestration, 
 
 ## How I approach engineering
 
-I care about clear architecture, simple interfaces, measurable reliability, and systems that teams can understand and maintain after the first release. I prefer practical solutions over unnecessary complexity and treat AI components as part of a larger software system—not as the entire product.
+I care about clear architecture, simple interfaces, measurable reliability, and systems that teams can understand and maintain after the first release. I prefer practical solutions over unnecessary complexity and treat AI components as part of a larger software system, not as the entire product.
 
 📍 Orlando, Florida
 🔗 [LinkedIn](https://www.linkedin.com/in/cheikh-sidi-moctar/) · [Email](mailto:cheikh_elmoctar@yahoo.com)
